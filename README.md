@@ -6,7 +6,7 @@ This repo was based on https://github.com/ondrejsika/sphinx-autodoc-example, upd
 - license: [MIT](https://ondrejsika.com/license/mit.txt)
 
 ## Install
-``````
+
 ```
 git clone git@github.com:alissone/sphinx-autodoc-example.git
 cd sphinx-autodoc-example
@@ -22,4 +22,5 @@ pip install -r requirements.txt
 Inside docs folder
 
 ```make html```
+
 # sphinx-autodoc-example
