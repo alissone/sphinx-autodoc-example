@@ -22,5 +22,3 @@ pip install -r requirements.txt
 Inside docs folder
 
 ```make html```
-
-# sphinx-autodoc-example
